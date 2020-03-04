@@ -30,7 +30,7 @@
 		<slf4j.version>1.7.7</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 		<!-- json支持,jackson包版本 -->
-		<jackson.version>2.7.4</jackson.version>
+		<jackson.version>2.10.3</jackson.version>
 		<!-- c3p0版本号 -->
 		<c3p0.version>0.9.1.2</c3p0.version>
 	</properties>
